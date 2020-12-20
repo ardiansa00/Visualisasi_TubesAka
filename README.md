@@ -1,4 +1,8 @@
 # Visualisasi_TubesAka
-Project ini dibuat menggunakan Python untuk memenuhi Tugas Besar 
+Proyek ini disajikan untuk memenuhi Tugas Besar mata kuliah Analisis dan Kompleksitas Algoritma. Proyek ini di buat oleh dua orang.
 
-# SIAPA AKU >
+Algoritma Heap Sort
+Algortima Insertion Sort
+Menggunakan Bahasa Pemrograman Python
+
+# HEAP SORT & INSERTION SORT
