@@ -11,9 +11,10 @@ Menggunakan Bahasa Pemrograman Python
 # Getting Started
 Project ini dibuat dengan menggunakan Python 3.9.1
 - Python V.3.9.1
-https://www.python.org/downloads/
+-https://www.python.org/downloads/
+
 - Library Modulo matplotlib
-pip3 install matplotlib
+- pip3 install matplotlib
 
 # RUNNING the Test
 python main.py
